@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "conclusion": "尚未提供语义诊断；此文件仅用于验证 HTML 渲染管线。",
+  "findings": [],
+  "justified": [],
+  "rules": [],
+  "experiments": []
+}

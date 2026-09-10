@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Usage Advisor"
+  short_description: "分析当前 Agent 平台的 token 使用并生成 HTML 诊断报告"
+  default_prompt: "请使用 $token-usage-advisor 分析当前 Agent 平台最近一周的全部任务，并生成 HTML 诊断报告；只有在我明确要求时才跨平台分析。"

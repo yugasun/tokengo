@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.html
+analysis.json
+diagnosis.json
+**/docs/superpowers/
